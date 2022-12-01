@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carlosalfredogomez1981
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 HOLA BIENVENIDOS ME LLAMO CARLOS
+- 👀 Estoy interesado en seguir desarrollando habilidades digitales y programación
+- 🌱 Actuamente estoy en proceso de aprendizaje
+
+- 📫 pueden contactarme via mail carlosalfredogomez@gmail.com
 
 <!---
 carlosalfredogomez1981/carlosalfredogomez1981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
